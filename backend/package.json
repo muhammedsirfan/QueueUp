@@ -1,0 +1,17 @@
+{
+  "name": "queueup-backend",
+  "private": true,
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "express": "4.21.2",
+    "jsonwebtoken": "^9.0.3",
+    "sequelize": "6.37.5",
+    "sqlite3": "5.1.7"
+  }
+}
