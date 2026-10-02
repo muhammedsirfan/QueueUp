@@ -1,4 +1,4 @@
-# Exported from VibeCode Arena
+
 
 Requires Python 3 and Node.js 20+.
 
